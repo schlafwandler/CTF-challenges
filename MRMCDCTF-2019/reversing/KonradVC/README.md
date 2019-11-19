@@ -8,5 +8,8 @@ Wait... Why can't I see this text with strings?
 * There might be problems under Windows 10
 * Under Windows, this challenge requires msvcr110.dll from Visual C++ Redistributable for Visual Studio 2012 
 
+### Solution:
+[Solution/Walkthrough](https://schlafwandler.github.io/posts/mrmcdctf2019-konradvc/)
+
 ### Tags:
 reversing, Windows, binary, medium - hard
